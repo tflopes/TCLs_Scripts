@@ -1,4 +1,4 @@
-####################### Breve explicao sobre o funcionamento desta TCL ##########################
+####################### Breve explicão sobre o funcionamento desta TCL ##########################
 #+flag <nick> <flag> --> Adiciona a flag que pretenderes ao user q pertenderes                    #
 #-flag <nick> <flag> --> Remove a flag que pretenderes ao user q pertenderes                      #
 #!adduser <nick> --> Adiciona um user com uma flag pre-determinada  lista de accesso do eggdrop  #
