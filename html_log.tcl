@@ -2,7 +2,7 @@
 #
 
 # The channel set to show online:
-set pxi2h_chan(#palmela) "/home/login/public_html/palmela_log1.html"
+set pxi2h_chan(#palmela) "/home/login/public_html/log1.html"
 #
 # The prefix to prevent stuff from being shown on the web:
 set pxi2h(secret) "."
@@ -14,7 +14,7 @@ set pxi2h(maxlines) 100
 set pxi2h(refresh) 60
 #
 # The title of the page:
-set pxi2h(title) "Canal #Palmela - Log File HTML - PTnet"
+set pxi2h(title) "Canal # - Log File HTML"
 #
 # Text color:
 set pxi2h(text) "#FFFFFF"
