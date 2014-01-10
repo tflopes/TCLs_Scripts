@@ -39,7 +39,7 @@ set autovoice(chantype) "1"
 #Set the channels below on which this script should work. Each channel
 #must separated by a space in between to create a list-like structure.
 #USAGE: set autovoice(channels) "#channel1 #channel2 #mychannel"
-set autovoice(chans) "#sex"
+set autovoice(chans) ""
 
 
 #Set the 'number of lines' here after which a user will be voiced for being
@@ -68,8 +68,8 @@ set autovoice(dvcheck) "2"
 ##################################################################################
 #If you do not have any nick to exempt, then: set autovoice(avexempt) {}
 set autovoice(avexempt) {
-AbAfAdO:#sex
-Gata_Sexy:#sex
+example:#canal
+example1:#canal
 }
 
 
